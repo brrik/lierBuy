@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin:0;
+}
+
+iframe{
+    width: 100%;
+    height: 80vh;
+}
+
+#buttonDiv{
+    margin-top: 10px;
+    position: fixed;
+    border-radius: 30px;
+    display: inline-block;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60%;
+    height: 13vh;
+    top:80vh;
+    text-align: center;
+    background-color: #23abdd;
+    color: white;
+}
+
+#buttonDiv p{
+    padding: auto;    
+    font-size: 3vh;
+}
